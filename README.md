@@ -2,8 +2,6 @@
 
 > Una solución moderna de transmisión y seguridad de video en tiempo real, impulsada por IA y optimizada para la web.
 
-[![Website](https://shields.io)](https://phonixcam.lrcompany.site/)
-
 **PhonixCam** es una plataforma web desarrollada por **lrcompany**(mi persona) que transforma tu pc en una herramienta para capturar video de manera online,segura,sencilla y gratuita,permite grabaciones estables y seguras debido a que no se queda con datos de tus grabaciones(privacidad total)
 
 🔗 **Despliegue oficial:** [https://phonixcam.lrcompany.site/](https://phonixcam.lrcompany.site/)
