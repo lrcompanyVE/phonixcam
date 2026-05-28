@@ -4,7 +4,7 @@
 
 [![Website](https://shields.io)](https://phonixcam.lrcompany.site/)
 
-**PhonixCam** es una plataforma web desarrollada por **LR Company** que transforma dispositivos móviles en herramientas inteligentes de seguridad y captura de video. Al integrar capacidades de inteligencia artificial, procesamiento multimedia y geolocalización, permite transmisiones estables y seguras directamente en la nube.
+**PhonixCam** es una plataforma web desarrollada por **lrcompany**(mi persona) que transforma dispositivos móviles en herramientas inteligentes de seguridad y captura de video. Al integrar capacidades de inteligencia artificial, procesamiento multimedia y geolocalización, permite transmisiones estables y seguras directamente en la nube.
 
 🔗 **Despliegue oficial:** [https://phonixcam.lrcompany.site/](https://phonixcam.lrcompany.site/)
 
