@@ -3,8 +3,6 @@
 > Una solución moderna de transmisión y seguridad de video en tiempo real, impulsada por IA y optimizada para la web.
 
 [![Website](https://shields.io)](https://phonixcam.lrcompany.site/)
-[![GitHub license](https://shields.io)](LICENSE)
-[![PRs Welcome](https://shields.io)](CONTRIBUTING.md)
 
 **PhonixCam** es una plataforma web desarrollada por **LR Company** que transforma dispositivos móviles en herramientas inteligentes de seguridad y captura de video. Al integrar capacidades de inteligencia artificial, procesamiento multimedia y geolocalización, permite transmisiones estables y seguras directamente en la nube.
 
@@ -21,11 +19,12 @@
 
 ## 🛠️ Stack Tecnológico
 
-El proyecto está construido utilizando tecnologías modernas y escalables:
+El proyecto es una aplicación web pura (Client-Side) que se ejecuta directamente en el navegador sin dependencias de servidor:
 
-*   **Frontend:** HTML5, CSS3, JavaScript
-*   **Procesamiento de Video:** WebRTC / RTSP (Ajusta según corresponda a tu desarrollo)
-*   **Alojamiento / Servidor:** cloudflare
+*   **Frontend:** HTML5, CSS3 y JavaScript Moderno (Vanilla JS).
+*   **Captura de Pantalla:** [Screen Capture API](https://mozilla.org) (`getDisplayMedia`) para la captura nativa del sistema operativo.
+*   **Procesamiento y Codificación:** [MediaStream Recording API](https://mozilla.org) (`MediaRecorder`) con el códec de video **VP8** (`video/webm;codecs=vp8`).
+*   **Almacenamiento:** Generación local de archivos binarios (`Blob`) descargables instantáneamente.
 
 ##  📄 Licencia
 
