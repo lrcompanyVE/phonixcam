@@ -30,4 +30,4 @@ Este proyecto está bajo la Licencia **MIT**
 
 ---
 
-Desarrollado con ❤️ por lrcompanyVE(https://github.com)
+Desarrollado con ❤️ por [lrcompanyVE](https://github.com)
